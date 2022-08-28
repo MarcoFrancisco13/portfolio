@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f3f1;
+}
+
+.logo {
+    width: 15%;
+}
+
+.emphasis {
+    color: #FA6D00;
+    font-weight: 700;
+}
